@@ -29,7 +29,6 @@
 //     return 0;
 // }
 
-// output
 // Multiplication of items: 120
 
 // Q3. Program to declare variables (int, float, etc.)
