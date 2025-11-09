@@ -1,6 +1,5 @@
 // Q1: Program for a 3x3 matrix
 
-// Tasks:
 
 // 1. Add numbers, display matrix and sum.
 
